@@ -28,3 +28,5 @@ jumman
 =[10249]=
 sohan
 =[10480]=
+yalhaz pc 
+=[10064]=
