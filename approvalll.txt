@@ -21,12 +21,8 @@ farhan
 =[10358]=
 yamin 
 =[10418]=
-user 
-=[10265]=
 akash 
 =[10282]=
-rishmi 
-=[10118]=
 limon 
 RJSHUVO10332KING
 pk 
@@ -35,10 +31,6 @@ tester
 RJSHUVO10262KING
 snigdho 
 RJSHUVO10214KING 
-nayam 7days october 27 
-RJSHUVO10138KING
-naigeria 
-RJSHUVO10277KING
 forhad
 RJSHUVO10203KING
 RJSHUVO10338KING
@@ -52,9 +44,6 @@ farhan
 RJSHUVO10373KING
 imran pk 
 RJSHUVO10285KING
-tester new 
-RJSHUVO10021KING
-RJSHUVO10352KING
 yeamin 
 RJSHUVO10420KING
 tonmoy 
