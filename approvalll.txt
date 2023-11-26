@@ -9,18 +9,12 @@ tanim
 =[10167]=
 alvi
 =[10449]=
-jumman
-=[10249]=
-sohan
-=[10480]=
 yalhaz pc 
 RJSHUVO10046KING
 RJ
 =[10359]=
 farhan 
 =[10358]=
-yamin 
-=[10418]=
 akash 
 =[10282]=
 snigdho 
@@ -37,10 +31,6 @@ tonmoy
 RJSHUVO10290KING
 shishir 
 RJSHUVO10326KING
-Ar Farhan paid user approval 15 days nov 12
-RJSHUVO10320KING
-nepal 
-RJSHUVO10566KING
 alvi 
 RJSHUVO10550KING
 sagar 
@@ -51,10 +41,9 @@ shishir frnd rafi
 RJSHUVO10226KING
 Sagor
 RJSHUVO10365KING
-RJSHUVO10317KING
-Robin
-RJSHUVO10365KING
 Siam akash er bhai 
 RJSHUVO10205KING
 bikal 
 RJSHUVO10267KING
+RJSHUVO10165KING
+Nepali 2
